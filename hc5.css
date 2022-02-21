@@ -1,0 +1,603 @@
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: white;
+    
+}
+
+.a {
+    width: 1245px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.b {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header {
+    padding: 0px 5px;
+}
+
+.header_logo {
+    width: 45px;
+    height: auto;
+}
+
+.logo {
+    margin-left: 7px;
+    font-size: 30px;
+    font-style: normal;
+    color: rgb(6, 14, 37);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.b1 {
+    margin-left: 90%;
+    width: 215px;
+    margin-top: 0%;
+}
+
+.b1 a {
+    margin: 10px 15px;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 10px 15px;
+    border-radius: 5%;
+}
+
+.btn1 {
+    color: dodgerblue;
+}
+
+.btn1:hover {
+    color: rgb(29, 115, 201);
+    background-color: rgb(228, 225, 222);
+}
+
+.btn2 {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.btn2:hover {
+    background-color: rgb(58, 121, 184);
+}
+
+.d {
+    display: flex;
+    flex-wrap: wrap
+}
+
+.c {
+    margin-top: 35px;
+    margin-left: 8%;
+}
+
+.btn4 {
+    margin: 15px 50px;
+    margin-left: 60%;
+    margin-top: 2px;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 10px 15px;
+    border-radius: 5%;
+    background-color: dodgerblue;
+    color: white;
+}
+
+.btn4:hover {
+    background-color: rgb(51, 135, 214);
+}
+
+.c1 {
+    width: 40%;
+    margin: auto;
+    padding: 25px;
+
+}
+.c1 h1 {
+    font-size: 45px;
+    margin-top: 3px;
+}
+
+
+.c1 p {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    padding: auto;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.c2 {
+    width: 50%;
+}
+
+.c2 img{
+    width: 70%;
+    margin-left: 7%;
+    margin-right: 3px;
+    padding: auto;
+}
+
+.m {
+    margin-top: 50px;
+}
+
+.n h1 {
+    font-size: 30px;
+    margin-left: 9%;
+    text-align: center;
+}
+
+.n p {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 25%;
+    margin-right: 15%;
+    padding: auto;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.n a {
+    margin: 10px 25px;
+    margin-left: 50%;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 10px 25px;
+    border-radius: 7%;
+}
+
+.btn5 {
+    width:15%;
+    text-align: center;
+    font-style: oblique;
+}
+
+.btn5 {
+    background-color: white;
+    color: dodgerblue;
+    width: 400px;
+    height: 200px;
+    border: 1px solid blue;
+    border-radius: 15%;
+}
+
+.btn5:hover {
+    background-color: rgb(19, 111, 204);
+    color: white;
+}
+
+.n {
+    width: 100%;
+}
+
+.n img{
+    width: 90%;
+    margin-left: 10%;
+}
+
+.n p1 {
+    width: 100%;
+    margin-left: 25%;
+    margin-right: 3%;
+    padding: auto;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#qwe {
+    width: 8%;
+    margin-left: 32%;
+    margin-right: 4%;
+}
+
+#rty {
+    margin: auto;
+    width: 8%;
+    margin-right: 4%;
+}
+
+#uio {
+    margin: auto;
+    width: 12%;
+    margin-right: 4%;
+}
+
+#asd {
+    margin: auto;
+    width: 10%;
+    margin-right: 4%;
+}
+
+.n h3 {
+    margin-left: 9%;
+    font-size: 32px;
+    margin-right: 60%;
+    margin-top: 3px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.n p2 {
+    margin-left: 9%;
+    margin-right: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.f {
+    margin-top: 5%;
+    margin-left: 12px;
+    margin-right: 12px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.a1 {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    
+}
+
+.a1 .b {
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 17px;
+}
+
+.a1 .b img {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 17%;
+}
+
+.a2 {
+    width: 65%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    
+}
+
+.a2 .c {
+    width: 45%;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 17px;
+    margin-left: 5%;
+}
+
+.a2 .c img {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.a3 {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    
+}
+
+.a3 .d {
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 17px;
+}
+
+.a3 .d img {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.a4 {
+    width: 65%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    
+}
+
+.a4 .e {
+    width: 45%;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 17px;
+    margin-left: 5%;
+}
+
+.a4 .e img {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.b h4 {
+    font-size: 15px;
+}
+
+.b h3 {
+    font-size: 25px;
+}
+
+.c h4 {
+    font-size: 15px;
+}
+
+.c h3 {
+    font-size: 25px;
+}
+
+.d h4 {
+    font-size: 15px;
+}
+
+.d h3 {
+    font-size: 25px;
+}
+
+.e h4 {
+    font-size: 15px;
+}
+
+.e h3 {
+    font-size: 25px;
+}
+
+.w {
+    width: 75%;
+    margin-top: 2%;
+    margin-left: 15%;
+    margin-right: 15%;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.q {
+    width: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    margin-right: 5%;
+}
+
+
+.r {
+    width: 18%;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 20px;
+    margin-left: 5%;
+    
+}
+
+.q a {
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 7%;
+}
+
+.btn6 {
+    width:5%;
+    text-align: center;
+    font-style: oblique;
+}
+
+.btn6 {
+    background-color: white;
+    color: dodgerblue;
+    height: 25px;
+    width: 130px;
+    border: 1px solid blue;
+    border-radius: 15%;
+}
+
+.btn6:hover {
+    background-color: rgb(19, 111, 204);
+    color: white;
+}
+
+.r a {
+    text-decoration: none;
+    font-size: 17px;
+    border-radius: 7%;
+}
+
+.btn7 {
+    width:5%;
+    text-align: center;
+    font-style: oblique;
+}
+
+.btn7 {
+    background-color: white;
+    color: dodgerblue;
+    width: 130px;
+    border: 1px solid blue;
+    border-radius: 15%;
+}
+
+.btn7:hover {
+    background-color: rgb(19, 111, 204);
+    color: white;
+}
+
+.s {
+    width: 100%;
+    background-color: rgb(163, 228, 228);
+    height: 70%;
+    margin: auto;
+}
+
+.z {
+    width: 90%;
+    margin: auto;
+}
+.g {
+    width: 65%;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.g h4 {
+    font-size: 18px;
+    margin-left: 5%;
+}
+
+.g h5 {
+    font-size: 12px;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.g h3 {
+    width: 30%;
+    margin-left: 110%;
+}
+
+#df {
+    margin-top: 8%;
+    margin-left: 4%;
+    width: 20%;
+}
+
+#vb{
+    width: 5%;
+    margin-left: 20%;
+    margin-top: 2px;
+}
+
+.g p {
+    width: 75%;
+    margin-left: 50%;
+    font-size: 30px;
+    display: block;
+}
+
+#nm {
+    margin-left: 10%;
+    width: 12%;
+    height: 10%;
+}
+
+.j {
+    width: 80%;
+    margin-top: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 5%;
+    height: 45%;
+    background-color: rgb(154, 70, 233);
+}
+
+.t {
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 8%;
+    margin-right: 5%;
+}
+
+.y h3 {
+    margin-left: 18%;
+    margin-right: 3%;
+    margin-top: 10%;
+    text-align: center;
+    font-size: 25px;
+}
+
+.t form {
+    border-radius: 7%;
+    margin-left: 25%;
+    width: 25%;
+    padding: auto;
+    margin: auto;
+}
+
+.t a {
+    text-decoration: none;
+    font-size: 17px;
+    padding: 5px 15px;
+    border-radius: 5%;
+    margin-left: 55%;
+}
+
+.btn8 {
+    text-align: center;
+    width: 18%;
+    margin-top: 15%;
+}
+
+.btn8 {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.btn8:hover {
+    background-color: rgb(58, 121, 184);
+}
+
+.u p3 {
+    padding: auto;
+    width: 100%;
+    margin-left: 30%;
+    text-align: center;
+    font-size: 20px;
+}
+
+kl {
+    padding: auto;
+    width: 10%;
+    margin: auto;
+}
+
+#hj {
+    padding: auto;
+    width: 10%;
+    margin: auto;
+}
+
+.k form {
+    border-radius: 7%;
+    margin-left: 75%;
+    width: 25%;
+    padding: auto;
+    margin: auto;
+}
+
+.k a {
+    color: rgb(107, 106, 106);
+    margin: auto;
+    padding: auto;
+    margin-left: 65px;
+}
+
+.k img {
+    margin-left: 45%;
+    width: 10%;
+}
+
+.k p {
+    text-align: center;
+    font-size: 15px;
+}
